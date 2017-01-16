@@ -1,3 +1,3 @@
 
-alert function jleif(1){1
+ function jleif(){
   console.log("Hey this works")
